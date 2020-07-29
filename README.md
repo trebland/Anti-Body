@@ -1,4 +1,5 @@
 # Anti-Body
+A Unity project developed to show the **TRANSMISSION** (the game jams theme) of viruses and to demonstrate how antibodies will defeat them. This is not an accurate depiction of how antibodies actually defeat viruses or bacteria.
 Created in Spring 2018 for the Global Game Jam.
 
 ## Credits
