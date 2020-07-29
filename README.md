@@ -2,8 +2,8 @@
 Created in Spring 2018 for the Global Game Jam.
 
 ## Credits
-Programming: David Lopez, Trevor Bland, Joseph Peaden
-Art: Stephanie Peaden, Chris Peaden
+Programming: David Lopez, Trevor Bland, Joseph Peaden <br />
+Art: Stephanie Peaden, Chris Peaden <br />
 Music: Zachary Goodless
 
 ## Reference Link
